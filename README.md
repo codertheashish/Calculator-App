@@ -49,7 +49,8 @@ This app provides a smooth, full-screen calculator experience with essential ari
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/codertheashish/kivy-calculator-app.git
+Git clone
+https://github.com/codertheashish/Calculator-App
 cd kivy-calculator-app
 ```
 
@@ -130,6 +131,5 @@ Released under the **MIT License** — free to use, modify, and distribute.
 ## 👨‍💻 **Author**
 
 **Ashish Kumar Prajapati**
-Python | Kivy | Android | AI & Computer Vision
 
 ---
